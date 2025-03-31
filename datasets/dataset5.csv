@@ -1,0 +1,133 @@
+sender,receiver,date,subject,body,label,number
+Stella Lowry <rookcuduq@yahoo.com>,Brian <bernice@groucho.cs.psu.edu>,"Sat, 03 Apr 1993 10:34:36 -0500",re[12]:,"           
+                                            
+ LUXURY  WATCHES - BUY YOUR OWN ROLEX  FOR ONLY  $219!                                                        
+                                               
+  Rolex :: Cartier ::  Bvlgari  ::  Frank Muller  ::  Patek  Philippe :: Vacheron Constantin                   
+   A.  Lange  & Sohne  ::  Audemars  Piguet  :: Jaeger-Lecoultre  ::  IWC  :: Officine  Panerai                                                    
+ Breitling ::  Omega ::  Tag  Heuer                                   
+                       
+   Exapmle:                 
+ ROLEX  Full 18K Gold  Daytona  for MEN -  only  $269!                                      
+                                                 
+    - Fast delivery                       
+     -  The lowest prices  in the world                                                 
+ -  Worldwide shipping                                                                      
+                                                            
+ Visit  our shop at:                                                                   
+                        
+http://vvhvjk130.sewandeatone.com
+                                                                       
+                                              
+                                                   
+                                   
+                    
+",1,73
+Mr Jailyn Koepke <kiflsbizc@attheworld.com>,melvin@groucho.cs.psu.edu,"Fri, 09 Apr 1993 21:31:58 -0800",LOANS @ 3.17% (27 term),"try chauncey may conferred the luscious not continued a tonsillitis 
+",1,74
+Scott Schwartz <schwartz@groucho.cs.psu.edu>,9fans <plan9-fans@cs.psu.edu>,"Sat, 10 Apr 1993 21:10:19 -0400",who wants to start?,"It's quiet.  Too quiet.  Well, how about a straw poll then.
+How many have plan9 running yet?
+
+",0,75
+mike@majestix.cs.uoregon.edu,9fans <plan9-fans@cs.psu.edu>,"Sat, 10 Apr 1993 23:32:45 -0400",Re: who wants to start? ,"It's working here.  I have departed almost totally from the Bell Labs
+recommended configuration.  I'm running a hacked version of the
+terminal kernel on Sparcs, booting off local disc, using a remote Unix
+machine running a hacked ""u9fs"" as the file server.  Lots of things
+don't work yet.  I have a TODO list a light-year long.  I expect many
+of my problems would go away if we had the resources to dedicate a CPU
+server (to run daemons) and a file server.
+
+I'm interested in hearing how others are doing...
+
+",0,76
+Austin Sullivan <rngwmlw@autojobs.nl>,summer@groucho.cs.psu.edu,"Wed, 14 Apr 1993 03:04:59 +0200",One pill can change all your ideas about sex!,"Little magic. Perfect weekends.
+http://othxu.rzfzwiwwfoeh9rr2wrr2errr.myrciaid.com/?jef
+
+",1,77
+Scott Schwartz <schwartz@groucho.cs.psu.edu>,9fans@cs.psu.edu,"Wed, 14 Apr 1993 20:18:50 -0400",mass ack,"Greetings all.  This is a mass acknowledgement to everyone who has
+signed on to the plan9-fans list to date, now that influx has slowed
+down a bit.  (There are 75 people on the list right now.)
+
+One person has suggested that the name of the list be changed to
+9fans.  There's already an alias for that, in any event.
+
+The list is not being archived (that I know of).  If someone wants to
+do it, that would be great.
+
+-- Scott
+
+",0,78
+matty@cs.su.oz.au,9fans-owner@cs.psu.edu,"Thu, 22 Apr 1993 09:10:42 -0400",Re: Plan 9 beginner's questions,"To shut down a terminal ctrl-t ctrl-t r.  This should be fine if it's
+diskless.  If it isn't - no idea.  To cancell a process (delete or
+numlock on some keyboard) will kill things in a window's process group.
+This is in the 8.5 manual page.  To stop and resume text output: put
+the window into non-scroll mode and use the page-down/VIEW key (again
+check the manual pages like 8.5 and keyboard(6)), its altgraph on some
+keyboard and the arrow keys on others.  This will scroll half a page.
+Output is blocked while it can't be displayed, i.e., while it's off
+the bottom of the page.
+
+					Matty.
+
+
+",0,79
+mike@majestix.cs.uoregon.edu,9fans@cs.psu.edu,"Thu, 22 Apr 1993 21:13:40 -0400",Plan 9 beginner's questions,"I don't know how to shut down a file server or CPU
+server, but to safely shut down a terminal, type ""^T^Tr"".
+The connection to the file server is not cached, so
+there is no need to sync.
+
+The equivalent of ^C is delete.  (Long ago, Delete was
+the standard interrupt character on Unix too, but
+Berkeley, in their infinite wisdom, decided to switch
+to ^C.)
+
+The equivalent of ^S and ^Q is the scroll/noscroll
+item on the middle mouse button menu, together with
+the scrollbar.
+
+",0,80
+Aaron <lerarnnarxernar@top.maxi4u.com>,Alton <amie@groucho.cs.psu.edu>,"Sat, 24 Apr 1993 22:04:32 +0100",decide yet,"You know what i'm so sick of paying all those ridicul ous prices for ur
+goodies.  
+
+It is just crazy. Luckily, I was one of the fortunate one is who came
+across www.organizationalforusto.com/jn/. is valley hymn too fogs, tatters
+small for you Stewart 22. Alexander needed more than
+
+horsemanship of of and cloud hanging self-confidence to be a good king. He
+needed discipline.
+
+Aaron
+
+",1,81
+arnold@cc.gatech.edu,9fans@cs.psu.edu,"Mon, 26 Apr 1993 12:32:50 -0400",a plug for 9term,"I've been beta-in g9term for 1.5 or 2 months and have very quickly come
+to be addicted.  The directory is not accessible at the moment, but when
+it comes back, do get a copy of 9term and try it; I like it a lot.
+
+Arnold Robbins --- College of Computing
+Georgia Tech, Atlanta, GA 30332-0280	Phone: +1 404 894 9214
+E-mail: arnold.robbins@cc.gatech.edu	FAX:   +1 404 853 9378
+""He's not dead, he's metaphysically challenged."" - Mystery Science Theatre 3000
+
+",0,82
+Beth Corbo <corbo@lclark.edu>,macgifts@mac.archive.umich.edu,"Tue, 11 May 1993 20:21:24 -0700",Quadra Utilities,"  Here are the utilities that I found for dealing with
+setting the amount of time the Mac waits for the
+internal hard drive to spin-up and some notes
+on SCSI from Micronet.
+  Enjoy!
+
+  Beth Corbo (corbo@lclark.edu)
+
+
+",0,83
+Roger Peppe <rog@ohm.york.ac.uk>,rsalz@osf.org,"Mon, 05 Jul 1993 11:43:14 -0400",Re: Ported U*ix programs to Plan 9?,"> Er, rather than porting existing stuff (GNU, etc) shouldn't
+> you be writing NEW programs with the plan9 model?
+
+sometimes it's non-trivial to re-invent _every_ wheel
+before using it, however nice it might be... :-)
+
+IMHO, one of the nice things about plan 9 is how easily
+most `naive' unix programs port to it.
+
+  rog.
+
+",0,84

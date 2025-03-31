@@ -1,0 +1,41 @@
+sender,receiver,subject,body,date,spam,number
+john@example.com,mary@example.com,Meeting Reminder,Don't forget the meeting at 10 AM.,9/1/2023 9:00,0,1
+spammer@ads.com,user@example.com,Win a Million Dollars!,Click here to claim your prize now.,9/1/2023 10:30,1,2
+info@news.com,user@example.com,Today's News Highlights,Check out the top headlines of today.,9/1/2023 11:00,0,3
+hr@company.com,john@example.com,Job Interview Follow-up,We look forward to your feedback.,9/2/2023 14:00,0,4
+spam@fakeoffers.com,user@example.com,Limited Time Offer!,Hurry! Limited stock available now.,9/2/2023 15:45,1,5
+mary@example.com,john@example.com,Lunch Plans,Let's meet for lunch tomorrow.,9/2/2023 12:00,0,6
+security@bank.com,user@example.com,Account Security Alert,Please review unusual activity on your account.,9/3/2023 9:15,0,7
+alice@example.com,bob@example.com,Project Deadline,Reminder: The project deadline is next week.,9/3/2023 14:00,0,8
+spam@lottery.com,user@example.com,You've Won a Lottery!,Claim your reward immediately!,9/3/2023 10:00,1,9
+bob@offers.com,alice@example.com,Exclusive Offers Inside,Don't miss out on our exclusive offers!,9/3/2023 17:00,1,10
+sales@shop.com,john@example.com,Seasonal Sale,Get ready for the seasonal sale this week.,9/4/2023 9:30,0,11
+newsletter@updates.com,user@example.com,Weekly Newsletter,Catch up on the latest news with our weekly newsletter.,9/4/2023 11:00,0,12
+promo@deals.com,user@example.com,Special Promotion,Enjoy special discounts this weekend.,9/4/2023 13:00,1,13
+contact@support.com,john@example.com,Customer Support Inquiry,We have received your inquiry and will get back to you.,9/4/2023 15:30,0,14
+hr@jobs.com,mary@example.com,New Job Posting,A new job opening has been posted. Apply now!,9/4/2023 17:00,0,15
+news@site.com,bob@example.com,Breaking News Update,Stay updated with the latest news.,9/5/2023 8:00,0,16
+win@lottery.com,user@example.com,Win Big in the Lottery,You could be the next big winner!,9/5/2023 9:00,1,17
+sales@electronics.com,alice@example.com,Electronics Clearance Sale,Huge discounts on all electronics! Shop now.,9/5/2023 10:00,0,18
+customer@feedback.com,john@example.com,Customer Feedback Survey,We value your feedback! Please take our survey.,9/5/2023 11:30,0,19
+support@service.com,user@example.com,Important Account Update,Your account has an important update. Please review.,9/5/2023 14:00,0,20
+info@company.com,mary@example.com,Company News,Here? the latest company news.,9/6/2023 9:00,0,21
+spam@adsnow.com,user@example.com,Limited-Time Ads!,Get your ads seen by thousands!,9/6/2023 10:00,1,22
+shop@online.com,john@example.com,Online Shopping Discount,Save big on online shopping today.,9/6/2023 11:00,0,23
+john@workplace.com,alice@example.com,Workplace Announcement,Important workplace updates for you.,9/6/2023 12:30,0,24
+team@project.com,user@example.com,Project Update,Here? an important update on the project.,9/7/2023 9:00,0,25
+alerts@security.com,john@example.com,Security Alert,Your account has a security alert. Please check.,9/7/2023 10:30,0,26
+mary@workplace.com,bob@example.com,Team Meeting Schedule,The team meeting is scheduled for 2 PM tomorrow.,9/6/2023 13:30,0,27
+deals@online.com,mary@example.com,Online Deals,Best deals online for today only!,9/7/2023 11:45,1,28
+promo@shopnow.com,bob@example.com,Exclusive Shop Promotions,Exclusive promotions for loyal customers.,9/7/2023 13:00,1,29
+offers@dailydeals.com,user@example.com,Daily Discount Offers,Enjoy daily discounts on your favorite products.,9/7/2023 14:30,0,30
+service@customer.com,john@example.com,Customer Service Inquiry,We have received your inquiry. Our team will respond soon.,9/8/2023 9:00,0,31
+job@company.com,mary@example.com,Job Opportunity,Explore the latest job opportunities with us.,9/8/2023 11:00,1,32
+lottery@winbig.com,user@example.com,You Won a Prize!,Congratulations! You?e won a prize!,9/8/2023 13:00,0,33
+update@news.com,alice@example.com,Latest News Update,Stay informed with our latest updates.,9/8/2023 15:00,0,34
+offers@travel.com,bob@example.com,Travel Discount Offers,Book your next trip with special offers.,9/8/2023 17:00,1,35
+discounts@shop.com,user@example.com,Shop Discounts!,Shop smart with amazing discounts.,9/9/2023 9:30,0,36
+reminder@events.com,john@example.com,Event Reminder,Don't miss the upcoming event.,9/9/2023 11:30,0,37
+account@bank.com,mary@example.com,Account Update,Your account information has been updated.,9/9/2023 13:30,0,38
+help@support.com,alice@example.com,Help Desk Request,Need help? Our support team is here for you.,9/9/2023 15:00,0,39
+claims@insurance.com,john@example.com,Insurance Claim Status,Check the status of your insurance claim.,9/9/2023 17:00,0,40
