@@ -23,10 +23,10 @@
    
    python app.py
 
-6. The four agents in the LLM multi-agents system will interact with each other for spam email dataset and output result.
+6. The four agents in the LLM multi-agents system will interact with each other for spam email dataset and output result. They will detect if each email is spam or not spam.
 
-7. There are 102 emails, the four agents in the LLM multi-agents system are designed to read six emails contents at each time. For example, if four agents finish completing 
+7. There are 102 emails. The four agents in the LLM multi-agents system are designed to read six emails contents at each time. For example, if four agents finish completing 
    tasks for first six emails, the user will be asked to input question. The user can input "exit" and then four agents will continue interacting with each other for next 
-   six emails. The user can continue inputting "exit" until four agents complete tasks for all 102 emails and the multi-agents system is also stop running.
+   six emails. The user can continue inputting "exit" until four agents complete tasks for all 102 emails and the multi-agents system also stop running.
 
  
